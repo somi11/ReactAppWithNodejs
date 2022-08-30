@@ -21,7 +21,7 @@
 ## Tests
 
 ### Unit testing
-#### For unit testing i used jest dependency where i check mocked used functions to check the inner working of my controller functions
+#### For unit testing i used jest dependency where i  mocked used functions to check the inner working of my controller functions
 
 ### Integration testing
 #### For integration testing i used jest and supertest dependiences to check if the routes are working properly with required functionalities
