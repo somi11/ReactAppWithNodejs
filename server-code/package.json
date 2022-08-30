@@ -1,0 +1,30 @@
+{
+  "name": "server-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.3",
+    "node-json2html": "^2.2.2",
+    "node-mocks-http": "^1.11.0",
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {
+    "jest": "^29.0.1",
+    "supertest": "^6.2.4"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+.add-card-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  width: 90vw;
+  column-gap: 10px;
+  border-radius: 15px;
+  padding: 10px;
+}

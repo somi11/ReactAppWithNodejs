@@ -1,0 +1,25 @@
+/server-code/node_modules
+/server-code.config.env
+/ikonic-assign/node_modules
+/ikonic-assign.pnp
+/ikonic-assign.pnp.js
+
+# testing
+/ikonic-assign/coverage
+
+# production
+/ikonic-assign/build
+
+# misc
+/ikonic-assign.DS_Store
+/ikonic-assign.env.local
+/ikonic-assign.env.development.local
+/ikonic-assign.env.test.local
+/ikonic-assign.env.production.local
+
+/ikonic-assignnpm-debug.log*
+/ikonic-assignyarn-debug.log*
+/ikonic-assignyarn-error.log*
+
+# Local Netlify folder
+/ikonic-assign.netlify
