@@ -35,13 +35,21 @@
   alt="Alt text"
   title="Splash Screen"
   style="display: inline-block; margin: 0 auto; max-width: 50px">
-![Alt text](/images/splash.jpg "Splash Screen")
-#### Loading Screen
-![Alt text](/images/loading.jpg "Loading Screen")
-#### Questions List Screen
-![Alt text](/images/list.jpg "List Screen")
-#### Question Screen
-![Alt text](/images/question.jpg "question Screen")
+  <img
+  src="/images/loading.jpg"
+  alt="Alt text"
+  title="Loading Screen"
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
+<img
+  src="/images/list.jpg"
+  alt="Alt text"
+  title="Questions Screen"
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
+<img
+  src="/images/question.jpg"
+  alt="Alt text"
+  title="Question Screen"
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
 
 ### andriod app link
 #### https://drive.google.com/file/d/1E-XO8Oq9BbinzpeKdyZTV2LZ07jNfLqk/
