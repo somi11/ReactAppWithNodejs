@@ -34,7 +34,7 @@
   src="/images/splash.jpg"
   alt="Alt text"
   title="Splash Screen"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
 ![Alt text](/images/splash.jpg "Splash Screen")
 #### Loading Screen
 ![Alt text](/images/loading.jpg "Loading Screen")
