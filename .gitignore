@@ -1,5 +1,5 @@
 /server-code/node_modules
-/server-code.config.env
+/server-code/config.env
 /ikonic-assign/node_modules
 /ikonic-assign.pnp
 /ikonic-assign.pnp.js
