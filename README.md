@@ -2,7 +2,7 @@
 
 ## server-code folder contains server side code
 ## ikonic-assign folder contains client side code
-
+## Andriod App (For getting Questions)
 ***************************************************************************************************************************************
 
 ## server-code folder contains server side code
