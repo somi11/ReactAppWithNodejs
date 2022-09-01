@@ -30,6 +30,11 @@
 ##Android Question Reading App
 ### i have made a andriod to read questions. The link to apk is below
 #### Splash Screen
+<img
+  src="/images/splash.jpg"
+  alt="Alt text"
+  title="Splash Screen"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 ![Alt text](/images/splash.jpg "Splash Screen")
 #### Loading Screen
 ![Alt text](/images/loading.jpg "Loading Screen")
